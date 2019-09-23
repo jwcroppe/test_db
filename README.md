@@ -34,7 +34,7 @@ user that has the following privileges:
     CREATE TEMPORARY TABLES, 
     LOCK TABLES, EXECUTE, CREATE VIEW
 
-## Installation:
+## Installation
 
 1. Download the repository
 2. Change directory to the repository
