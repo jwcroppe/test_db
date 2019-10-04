@@ -23,6 +23,9 @@ The data was generated, and as such there are inconsistencies and subtle
 problems. Rather than removing them, we decided to leave the contents
 untouched, and use these issues as data cleaning exercises.
 
+Slight changes were made to the employees table such that it could be
+loaded into a MySQL 3.23 database.
+
 ## Prerequisites
 
 You need a MySQL database server (5.0+) and run the commands below through a 
